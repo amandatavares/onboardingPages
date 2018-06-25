@@ -36,7 +36,7 @@
                     <state key="normal" title="Skip"/>
                 </button>
                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EgD-aS-lP2">
-                    <rect key="frame" x="148" y="536.5" width="79" height="30"/>
+                    <rect key="frame" x="272" y="599" width="79" height="30"/>
                     <state key="normal" title="Next / Start"/>
                 </button>
             </subviews>
@@ -47,16 +47,16 @@
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="ysr-Fo-ixT" secondAttribute="trailing" constant="24" id="7lP-Qr-Rje"/>
                 <constraint firstItem="Tjr-wx-Dx3" firstAttribute="top" secondItem="ysr-Fo-ixT" secondAttribute="bottom" constant="16" id="8Bx-ot-YTy"/>
                 <constraint firstItem="ysr-Fo-ixT" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="321" id="9QS-8T-4ot"/>
-                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="EgD-aS-lP2" secondAttribute="trailing" constant="148" id="9aU-pf-2kE"/>
                 <constraint firstItem="Xat-hP-c2D" firstAttribute="top" secondItem="x29-D7-APr" secondAttribute="bottom" constant="18" id="HEw-oB-SKu"/>
+                <constraint firstItem="EgD-aS-lP2" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="272" id="IRV-9E-Yiq"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="x29-D7-APr" secondAttribute="trailing" constant="16" id="KKQ-MI-tll"/>
                 <constraint firstItem="x29-D7-APr" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="16" id="N4y-ju-GnM"/>
-                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="EgD-aS-lP2" secondAttribute="bottom" constant="100.5" id="Pq9-zZ-qYx"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="EgD-aS-lP2" secondAttribute="bottom" constant="38" id="Rma-Iq-yqn"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Xat-hP-c2D" secondAttribute="bottom" constant="160.5" id="WRp-e0-b2k"/>
                 <constraint firstItem="x29-D7-APr" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="406" id="acv-3n-9dU"/>
                 <constraint firstItem="Tjr-wx-Dx3" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="16" id="bMk-IF-RFs"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="EgD-aS-lP2" secondAttribute="trailing" constant="24" id="bMv-cG-CD4"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Tjr-wx-Dx3" secondAttribute="trailing" constant="16" id="c0m-Cu-jaZ"/>
-                <constraint firstItem="EgD-aS-lP2" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="148" id="dQA-GN-lE1"/>
                 <constraint firstItem="ysr-Fo-ixT" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="26" id="eoQ-pP-H2C"/>
                 <constraint firstItem="x29-D7-APr" firstAttribute="top" secondItem="Tjr-wx-Dx3" secondAttribute="bottom" constant="50" id="g49-M5-62p"/>
                 <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Xat-hP-c2D" secondAttribute="trailing" constant="16" id="sv3-wB-rgs"/>
